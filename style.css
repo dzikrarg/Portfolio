@@ -1,0 +1,50 @@
+.navbar-brand {
+  font-weight: 700;
+}
+
+.navbar-nav {
+  font-weight: 500;
+}
+
+.jumbotron {
+  font-family: Helvetica, sans-serif;
+  padding-top: 6rem;
+  background-color: #7674e2;
+}
+
+.jumbotron h1 {
+  font-weight: 700;
+}
+
+.jumbotron p {
+  font-weight: 500;
+}
+.about {
+  background-color: #f0f0f6;
+  padding: auto;
+}
+
+.about h2 {
+  font-weight: 700;
+  padding-bottom: 2rem;
+}
+
+.about p {
+  font-weight: 400;
+}
+
+.project {
+  background-color: #fcbd2e;
+}
+
+.contact {
+  background-color: #f0f0f6;
+}
+
+.footer {
+  background-color: #fcbd2e;
+}
+
+section {
+  padding-top: 5rem;
+}
